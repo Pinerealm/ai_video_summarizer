@@ -1,0 +1,9 @@
+fastapi
+dotenv
+pydantic
+youtube_transcript_api
+uvicorn
+langchain
+langchain_groq
+gtts
+aiohttp
